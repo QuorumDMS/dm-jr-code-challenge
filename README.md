@@ -16,7 +16,7 @@
  - If not, show an appropriate error message
  - When the user clicks on a ***Show Reviews*** button, the reviews should be loaded for this specific hotel.
  - Show the reviews in a list below the hotel information, but inside the hotel item container.
- - Your results page should use web design dest practices.
+ - Your results page should use web design best practices.
 
 ### API endpoint
 The required hotel data is available via the Fake Hotel API. All needed documentation is published on http://fake-hotel-api.herokuapp.com/
