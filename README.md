@@ -6,7 +6,7 @@
   - IMPORTANT: Do not fork this repository, as the fork will be publicly-visible (consider using a new GitHub account if you are concerned about discretion)
 - Complete the code to solve the problem described below
 - Create a small technical write-up that describes how you solved the problem, and put it in DESCRIPTION.md
-- Add @ccrane-quorum to the private repository and send an e-mail to chris.crane@quoruminfotech.com once you've pushed your completed project up to GitHub
+- Add **@ccrane-quorum** to the private repository and send an e-mail to chris.crane@quoruminfotech.com once you've pushed your completed project up to GitHub
 
 ## Challenge Details
 ### Implement a search result list for hotels
