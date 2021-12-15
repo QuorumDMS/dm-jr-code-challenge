@@ -19,7 +19,7 @@
  - Your results page should use web design best practices.
  - Each call to the Fake Hotel API should be logged in a database.
     - Provide a sql script to create the database and table structure.
-    - Each log entry should include the which endpoint was called (hotels or reviews), when it was called, and the count to items returned if successfull, and error message if unsuccessful
+    - Each log entry should include which endpoint was called (hotels or reviews), when it was called, and the count to items returned if successfull, and error message if unsuccessful
  - Use xUnit v2 to create any necessary Unit tests.
 
 ### API endpoint
